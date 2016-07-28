@@ -1,0 +1,89 @@
+.logo{
+	height:80px;
+	width:240px;
+	margin-left:30px;
+	margin-right: 20px;
+}
+
+.espacio1{
+margin-bottom: 20px;
+}
+
+.icono{
+	height:60px; 
+	width:60px;
+	margin-top: 250px;
+	margin-right:50px;
+}
+
+.banner{
+	height: 100%;
+	width:333%;
+	padding-left: 70px;
+}
+
+.botonall{
+	font-family: Verdana;
+	font-size: 13px;
+	color:#04B431;
+	height:30px;
+	width:80px;
+	border-radius: 10%;
+	
+}
+
+.botontrailer{
+	background-color: orange;
+	font-family: Verdana;
+	color:white;
+	height:30px;
+	width:200px;
+	border-radius: 10%;
+}
+
+.botonticket{
+	background-color:#FE642E;
+	font-family: Verdana;
+	color:white;
+	height:30px;
+	width:200px;
+	border-radius: 10%;
+}
+
+.fluid2{
+	background-color: #FACC2E;
+	
+}
+
+.slide{
+	height: 270px;
+	width: 200px;
+	padding-left: 20px;
+	
+}
+
+.peli{
+	font-size: 18px;
+	font-family: Verdana;
+	color:white;
+}
+
+.peliculas{
+	height:350px; 
+	width:240px;
+}
+
+.linea1{
+width: 200px;
+}
+
+.linea2{
+	width:500px;
+}
+
+footer{
+	font-size: 18px;
+	color:white;
+	background-color:#A4A4A4;
+
+}
